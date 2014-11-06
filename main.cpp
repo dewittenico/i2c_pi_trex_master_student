@@ -12,6 +12,7 @@ int main() {
     printf("Sizeof char: %d\r\n", sizeof(char));
     printf("Sizeof int: %d\r\n", sizeof(int));
 
+    printf("File changed by Nico\r\n");
     Serial pc;
 
     // We need to supply the device path
